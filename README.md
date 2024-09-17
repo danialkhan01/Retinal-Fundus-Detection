@@ -1,4 +1,4 @@
-# ACIT4630
+# Eye Disease Detection Model
 STEP 1: Access the datasets, as this needs to be done when testing the merging and loading the datasets. 
 https://drive.google.com/drive/folders/17OyiAxaANNAOk4YXperpMztGgeXGZY4T?usp=sharing
 https://drive.google.com/drive/folders/1272Us-0-VfbGyWrPs8uq71m6seIrI8A9?usp=sharing
